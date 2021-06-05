@@ -1,4 +1,4 @@
-intindex,middle,ring,little,thumb;
+int angle1,angle2,angle3,angle4,angle5;
 void setup() {
 Serial.begin(9600);
 pinMode(A0,INPUT);
